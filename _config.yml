@@ -1,0 +1,14 @@
+layout_spectrum: 0.09214565297588706
+typography_spectrum: 0.4145040982402861
+color:
+  brandStrength: 0.2754801919218153
+  lightness: 0.782582140294835
+  saturation: 0.9483720178250223
+  rhythmicContrast: 0.22285663336515427
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: uplift
